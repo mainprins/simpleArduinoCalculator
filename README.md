@@ -9,10 +9,8 @@ I prototyped this using wokwi ( a browser-based simulator for arduino,esp32 etc)
 2) Subtraction(-)
 
 # Libraries Used
-
-1)Keypad
-
-2)LiquidCrystal I2C
+1) Keypad
+2) LiquidCrystal I2C
 
 # Copyright
 
